@@ -1,0 +1,5 @@
+Salario_base = float(input("ingrese salario:"))
+Horas_extras = float(input("ingrese horas extra(s):"))
+Valor_hora_extra = float(input("ingrse valor hora extra:"))
+Salario_total = Salario_base + (Horas_extras * Valor_hora_extra)
+print("el salario total es:", Salario_total)
