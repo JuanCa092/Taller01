@@ -10,4 +10,4 @@ if (!mes === 12 || mes === 1 || mes === 2) {
     console.log("Es otoño");
 } else {
     console.log("Mes no válido");
-}
+} 
